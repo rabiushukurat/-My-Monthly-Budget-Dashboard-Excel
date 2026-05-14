@@ -1,4 +1,5 @@
 **Project Overview**
+
 Built a fully interactive personal finance workbook in Microsoft Excel to track monthly income, expenses and savings goals. The workbook consists of three connected sheets that automatically update based on real spending data.
 Tools Used
 
@@ -12,10 +13,10 @@ Expense Tracker — individual transaction log with Quick Stats panel showing to
 
 Key Insights
 
-Rent/Housing dominates spending at 46% of total actual expenditure — the single largest budget category
-Food & Groceries is the most overspent category — ₦12,000 over budget, highlighting a need to review grocery spending habits
+Rent/Housing dominates spending at 46% of total actual expenditure, the single largest budget category
+Food & Groceries is the most overspent category, ₦12,000 over budget, highlighting a need to review grocery spending habits
 Transport and Food consistently exceed budget while Skincare, Gym and Subscriptions remain within planned amounts
-Savings goal was fully met at ₦50,000 — demonstrating disciplined financial planning despite overspending in some categories
+Savings goal was fully met at ₦50,000, demonstrating disciplined financial planning despite overspending in some categories
 
 Skills Demonstrated
 
