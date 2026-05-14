@@ -5,16 +5,16 @@ Tools Used
 
 Microsoft Excel (formulas, charts, data linking)
 
-**Workbook Structure
-**
+Workbook Structure
+
 Dashboard — visual summary with Budget vs Actual bar chart and spending breakdown pie chart
 
 Monthly Budget — category-by-category budget planner with automatic Within Budget/Over Budget status
 
 Expense Tracker — individual transaction log with Quick Stats panel showing total spent, number of transactions and average spend
 
-**Key Insights
-**
+Key Insights
+
 Rent/Housing dominates spending at 46% of total actual expenditure, the single largest budget category
 Food & Groceries is the most overspent category, ₦12,000 over budget, highlighting a need to review grocery spending habits
 Transport and Food consistently exceed budget while Skincare, Gym and Subscriptions remain within planned amounts
