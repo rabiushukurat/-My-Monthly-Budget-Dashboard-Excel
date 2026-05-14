@@ -8,7 +8,9 @@ Microsoft Excel (formulas, charts, data linking)
 Workbook Structure
 
 Dashboard — visual summary with Budget vs Actual bar chart and spending breakdown pie chart
+
 Monthly Budget — category-by-category budget planner with automatic Within Budget/Over Budget status
+
 Expense Tracker — individual transaction log with Quick Stats panel showing total spent, number of transactions and average spend
 
 Key Insights
