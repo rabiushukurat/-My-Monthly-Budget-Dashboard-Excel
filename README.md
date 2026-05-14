@@ -3,7 +3,7 @@
 Built a fully interactive personal finance workbook in Microsoft Excel to track monthly income, expenses and savings goals. The workbook consists of three connected sheets that automatically update based on real spending data.
 Tools Used
 
-📥 **Download the workbook:** [Click here to download](https://github.com/rabiushukurat/-My-Monthly-Budget-Dashboard-Excel/raw/main/Monthly%20Expenses%20Tracker.xlsx)
+📥 **Download the workbook:** (https://github.com/rabiushukurat/-My-Monthly-Budget-Dashboard-Excel/raw/main/Monthly%20Expenses%20Tracker.xlsx)
 
 Microsoft Excel (formulas, charts, data linking)
 
