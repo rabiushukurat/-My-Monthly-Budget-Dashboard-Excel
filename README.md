@@ -3,6 +3,8 @@
 Built a fully interactive personal finance workbook in Microsoft Excel to track monthly income, expenses and savings goals. The workbook consists of three connected sheets that automatically update based on real spending data.
 Tools Used
 
+📥 **Download the workbook:** [Click here to download](paste your raw file link here)
+
 Microsoft Excel (formulas, charts, data linking)
 
 Workbook Structure
